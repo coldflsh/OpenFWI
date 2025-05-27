@@ -1,0 +1,12 @@
+/kaggle/input/flatvel-a/data/data49.npy	/kaggle/input/flatvel-a/model/model49.npy
+/kaggle/input/flatvel-a/data/data50.npy	/kaggle/input/flatvel-a/model/model50.npy
+/kaggle/input/flatvel-a/data/data51.npy	/kaggle/input/flatvel-a/model/model51.npy
+/kaggle/input/flatvel-a/data/data52.npy	/kaggle/input/flatvel-a/model/model52.npy
+/kaggle/input/flatvel-a/data/data53.npy	/kaggle/input/flatvel-a/model/model53.npy
+/kaggle/input/flatvel-a/data/data54.npy	/kaggle/input/flatvel-a/model/model54.npy
+/kaggle/input/flatvel-a/data/data55.npy	/kaggle/input/flatvel-a/model/model55.npy
+/kaggle/input/flatvel-a/data/data56.npy	/kaggle/input/flatvel-a/model/model56.npy
+/kaggle/input/flatvel-a/data/data57.npy	/kaggle/input/flatvel-a/model/model57.npy
+/kaggle/input/flatvel-a/data/data58.npy	/kaggle/input/flatvel-a/model/model58.npy
+/kaggle/input/flatvel-a/data/data59.npy	/kaggle/input/flatvel-a/model/model59.npy
+/kaggle/input/flatvel-a/data/data60.npy	/kaggle/input/flatvel-a/model/model60.npy
